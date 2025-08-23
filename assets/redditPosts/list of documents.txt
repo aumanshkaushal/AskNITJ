@@ -1,0 +1,135 @@
+Hi Everyone,
+As a fellow fresher joining the College, I just realized that many peeps are having trouble with the document list provided at : [https://nitj.ac.in/files/1755164892717-Revised_list_of_documents.pdf
+
+This post will try and give details for all the documents required during physical reporting as well as solve doubts that I found were common.
+
+All the mentioned documents are required for Physical Reporting and for Online Reporting. You should have both Physical and PDF of all of them handy. It is suggested to make a collective PDF of these documents, but I'd suggest waiting until online registration portal is open to make the PDF. I will explain the reason in the post.
+
+I am marking the documents required by all students as * and all rest documents are situational.
+
+1. Provisional Seat Allotment Letter*
+This letter is usually provided after all processes are done in JOSAA/CSAB/DASA.
+
+For JOSAA peeps who have not filled CSAB or are not expecting a branch upgrade, you can use your JOSAA Provisional Letter that you got at the end of R6.
+
+For CSAB currently it seems no-one has been provided the provisional letter, only the initial allotment slip. We have to wait until the CSAB Website provides us with the so called Acceptance Letter. If I had to make a guess, we will get this after freezing or after Round 3 allotment. I'll edit this according to updates we get.
+
+2. JEE Main Admit Card*
+If you have a saved PDF or Physical from first or second session, you can use any of those.
+
+Those who don't have the pdf can download from : - [https://examinationservices.nic.in/jeemain2025/DownloadAdmitCard/LoginPWD.aspx?enc=WPJ5WSCVWOMNiXoyyomJgDUffqDdG1LTsAPBKFcEC9U6Jt9ZgEhPK34DpEEvDDR2
+
+3. JEE Main Scorecard*
+You probably have this saved already. This is the second session result which mentioned your rank and your eligibility in Advance.
+
+Again for peeps who don't have it for some reason : - https://examinationservices.nic.in/resultservices/JEEMAIN2025S2P1/Login
+
+4. Age Proof*
+You need the same one you used in CSAB or JOSAA Online Verification.
+
+Use Either your Class X Marksheet or Birth Certificate.
+
+5. Class 12th Marksheet*
+Self-Explanatory
+
+6. Valid Category Certificate
+You should already have this as you have done JOSAA/CSAB Procedure.
+
+Only Required by people who are SC/ST/OBC-NCL/GEN-EWS.
+
+Should be made on or after 1st April, 2025.
+
+7. Valid UDID card or Valid PwD certificate
+As per JoSAA format along with Doctor’s prescription issued by the medical board at the Physical Reporting Centre.
+
+This is only for PwD students.
+
+8. Income Certificate issued on or after 01.04.2025
+This is only required for students who wish to get Fee Waiver.
+
+I suggest getting the details from the official NITJ Website for this as I am not going for Fee Waiver and am therefore Ill-equiped to go into details.
+
+9. Proof of Payment of Institute Balance Fees
+Now this is required by anyone who has fee remaining to be paid.
+To check how much fees is pending for you or if you have already paid in full,
+
+refer : - https://www.reddit.com/r/NITJalandhar/comments/1ml1lbi/detailed_guide_to_the_fee_structure_for/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
+
+Now, according to the NITJ Website, the payment of Balance Fees will happen during Online reporting. This is why I suggest you wait to pay the balance fees first before you make the pdf of all documents and upload in Online Registration (if required). Unless NITJ gives a payment option beforehand, most probably the same site with online registration will have the option to pay balance fees.
+
+EDIT : - The Nitj officials said the fees might be paid during physical registration only. For this point I suggest waiting for the info of college. Don't worry college paisa lene mein koi dikkat nhi dega aapko.
+
+r/NITJalandhar - Solving Queries Regarding Physical Reporting Docs
+10. Migration/TC + 11. Character Certificate*
+Original is required, and I'd suggest contacting your institute if you don't have it for some reason.
+
+(o-o)
+
+11. Medical Certificate by JoSAA*
+You should already have this for JoSAA and/or CSAB as it is a required doc there.
+
+12. Aadhaar Card (* for all but foreign students)
+If you don't have an Aadhaar Card, I just want to ask how and why?
+
+13. Gap Certificate/Undertaking for Gap in Studies
+Only required for Droppers.
+
+Many people are confused whether you need a notarized stamp paper one or just the undertaking.
+Get one Notarized for sure.
+
+You can get it made from a Notary Lawyer. Usually can find them in govt offices near you and the procedure is simple enough, it takes around 20 minutes.
+
+If you got one already and have it in slightly different format than the one provided by NITJ, that's ok it should be just accepted by the govt. Just to be safe, also fill the undertaking alongside and attach it to your certificate.
+Alternatively, you can get the undertaking notarized.
+
+Don't be lazy on this, just get one notarized because even if notarized is not required there will be no loss on getting one notarized, while the opposite case can be detrimental.
+
+Edit : - I have asked Nitj helpline for clarification. Any format is accepted. If the wording is different from the undertaking, just fill the undertaking and get it signed by your parents and yourself and attach it to the notarized gap certificate. A notarization is not required but suggested on safe side.
+
+Summary : You need a govt officiated gap certificate and if the wording on that seems to be slightly different from nitj given undertaking it's fine. You don't need to but to be on safe side can get a notarized certificate. The undertaking just needs to be filled and signed.
+
+14. Anti-ragging Certificate*
+This is an undertaking you need to take before going in college.
+
+Edit : More details as everyone is confused. Make this after you have finalized branch and college. This needs your branch and college details. Please wait for CSAB R3 if you have filled CSAB
+
+Here is a link to the site where it happens: - https://antiragging.in/affidavit_university_form.php
+
+I'll add a PDF of last year which explains how to do the steps. Just remember, data of college should be this year based instead of the one given in PDF. Check for any changes, as PDF is from 2024.
+
+Here is the PDF : https://drive.google.com/file/d/1vi2wkYZq4M6PNnyAjpor1Bsl4V7iCPMe/view?usp=sharing
+
+Here is the data provided :
+
+State in which University is based*: Punjab
+
+University Code: U-0374
+
+University Name: Dr. B. R. Ambedkar National
+
+Institute of Technology Jalandhar
+
+University Director/Vice Chancellor *- Dr. Binod
+
+Kumar Kanaujia
+
+University Phone Number (+91)*: +91-181-
+
+2690802
+
+Nearest Police Station to your University*:
+
+Maqsudan Police Station
+
+15. Affidavits given by college*
+Just fill all of these and keep them signed. The date and place on the affidavit should be the date and place of signing.
+
+16. Undertaking by student/parent regarding a) Hostel
+b) Medical Facility and c) Motor Vehicle
+Attached as Annexure A, B and C, respectively.
+
+These documents are available at https://nitj.ac.in/files/1755164892717-Revised_list_of_documents.pdf which needn't to be noterized. Just signature of parents and the candidate.
+
+This is all the info about the documents. Any mistake I have or if anyone wishes to add anything to this post, just leave it in the comment, I'll update the post accordingly.
+
+EDIT : - The tentative date for online portal being open is 20th August according to the helpline call numbers. This may be subject to change
