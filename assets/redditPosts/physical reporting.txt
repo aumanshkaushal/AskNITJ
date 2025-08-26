@@ -1,2 +1,33 @@
-Morning sessions for physical reporting start from 9:00 AM
+Morning sessions for physical reporting start from 9:30 AM
 Evening sessions for physical reporting start from 1:30 PM
+
+1. You enter the campus through [temporary gate](https://maps.app.goo.gl/awJwuEPyhCQ8z2nV7). You have to tell the security at the gate about your online allotted token number and he will add your entry time.
+2. You move towards [Central Seminar Hall](https://maps.app.goo.gl/w6HRXnAcfUztNMtq8) (CSH). Only students are allowed in central seminar hall. All parents will go to [science block](https://maps.app.goo.gl/CRjksuvooskSZgWS9) (SB).
+3. After entering into CSH, you can ask a senior to show you the QR for offline token allotment. They will show you a WhatsApp number QR code, and you have to text "token" on that number. You will be allotted an  offline token number.
+4. You can sit inside the CSH and listen for instructions from seniors present there. They will say something along the lines of "token 1-30 can come in front" and then you go to the desks whenever one is empty (there are 4 desks, 2 people can do verification at one desk).
+5. IMPORTANT: If you missed any document in the online token allotment so you can go to the desk "May I Help You" to the left inside the CSH. They will reject your original document uploaded on the website and then you can login to [nitj.ac.in/admissions\_btech/login](http://nitj.ac.in/admissions_btech/login) and reupload your documents.
+6. While you wait for your turn, seniors will come and verify your documents so keep them in order.
+7. Once you see an empty spot on chairs at document verification desk, you can go and display your documents. They will ask you for the documents listed in [https://nitj.ac.in/files/1755164892717-Revised\_list\_of\_documents.pdf](https://nitj.ac.in/files/1755164892717-Revised_list_of_documents.pdf) , and your 3 copies (Institute copy, Hostel Copy and Student Copy) of Provisional Admission Letter which you downloaded from NITJ ERP.
+8. They will ask you for original Character certificate and Anti Ragging (student and parent acknowledgement) and staple it with your Institute copy of Provisional Letter. They will verify your original Class X Marksheet, Class XII Marksheet, Caste Certificate and others. If they find any issue or pending document, they will tell you to fill up the "Declaration for Late Submission". You can fill it up with your missing document and they will give you time till 30 September to resubmit that document. They will reject your existing pdf uploaded to ERP and tell you to scan the Late submission declaration and attach it to the pdf and resubmit it on the portal again.
+9. After uploading, you can go to the same desk again and then they will reverify your documents one last time and then sign on the institute copy, hostel copy and student copy of Provisional Admission Letter. (They will only keep the original character certificate, migration certificate and anti ragging)
+10. They will give all three copies of provisional admission letter to their staff and tell you to sit on chairs in front of Admission In charge where you will be called by name. They will only go through the pdf you submitted and make sure everything is correct and then send you off to the next counter.
+11. They will check your document a final time and ask if you were allotted a hostel online. If you were, they will keep the institute copy and send you off to the hostel with the hostel and student copy of Provisional Admission Letter.
+12. Now you can go back to the science block to your parents and then go to your hostel.
+13. At the hostel gate, you have to do entry for your parents. After entering the hostel, there will be staff which will ask you for your Hostel allotment slip (yes those 5 pages that you got from ha.nitj.ac.in), Aadhar card photo copy (needs to be self attested), two passport size photo of yourself, Provisional Admission Letter (Hostel Copy) and Proof of payment of institute and Mess (23k and 35k receipts, both signed). While the staff staples this, you will be asked to fill a google form (there will be a QR on the wall which will open the google form). You have to upload the institute fees receipt and mess fee receipt (many students were having trouble here "server rejected". Make sure you have enough space in your GOOGLE DRIVE). You'll have to fill those basic details like address (as mentioned in your Aadhar card), name, phone number and all.
+14. Once you complete the form, you can go inside the hostel office, and they will check your documents and your google form submission. Once they give a final go, they will tell you to sign in the register in front of your room number. After that you can go to your hostel room with your parents and setup your room.
+
+Tips:
+
+\- Make sure to come EARLY! like super early for smooth process or you might have to wait a lot. (Your online token doesn't matter, its the offline token so the first thing to do is get an offline token)
+
+\- CBSE students might have the migration certificate from DigiLocker, you need a stamp and sign from school principal on the migration certificate for it to be accepted (else you can submit declaration and submit it later, before 30 September tho)
+
+\- You must upload the scanned version of original class x and xii marksheet on the ERP portal. If you have uploaded the DigiLocker version, you will have to change it on the day of physical reporting
+
+\- The network coverage is pretty bad out here, you might not be able to browse the forms properly or login to ERP. Just the situation because of the bad weather this week.
+
+\- Make sure to bring out photocopies. (especially those fee receipts)
+
+\- Follow this pretty nice map made by our seniors: [https://goo.gl/maps/u2FDQNian1USfiiW9?g\_st=ac](https://goo.gl/maps/u2FDQNian1USfiiW9?g_st=ac)
+
+Good luck guys! The seniors are pretty helpful
