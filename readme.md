@@ -9,10 +9,10 @@
 <h4 align="center">u/AskNITJ is a reddit bot designed specifically to help students on r/NITJalandhar</h4>
 
 <p align="center">
-  <a href="https://github.com/aumanshkaushal/link">
+  <a href="https://github.com/Opensource-NITJ/AskNITJ">
     <img alt="GitHub package.json version" src="https://img.shields.io/github/package-json/v/Opensource-NITJ/AskNITJ?style=flat&color=ffffff">
   </a>
-  <a href="https://github.com/aumanshkaushal/link">
+  <a href="https://github.com/Opensource-NITJ/AskNITJ">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Opensource-NITJ/AskNITJ?color=ffffff">
   </a>
   <a href="https://github.com/Opensource-NITJ/AskNITJ/issues">
