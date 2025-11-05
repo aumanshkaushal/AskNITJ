@@ -22,18 +22,6 @@
     <img alt="GitHub license" src="https://img.shields.io/github/license/Opensource-NITJ/AskNITJ?color=ffffff">
   </a>
 </p>
-  <h2 align="center">🎃 Hacktoberfest 2025</h2>
-
-<p align="center">
-  <a href="https://hacktoberfest.com/">
-    <img src="https://img.shields.io/badge/Hacktoberfest-2025-orange?style=for-the-badge&logo=hackster&logoColor=white" alt="Hacktoberfest 2025">
-  </a>
-</p>
-
-<p align="center">
-  <b>AskNITJ</b> is participating in <a href="https://hacktoberfest.com/">Hacktoberfest 2025</a>!<br>
-  If you're passionate about <b>Reddit bots</b>, <b>AI automation</b>, or <b>open-source contributions</b>, this is your chance to jump in.
-</p>
 </p>
 
 ---
@@ -185,14 +173,12 @@ flowchart TD
 2. Pick an open issue.
 3. Create your branch and make improvements.
 4. Submit a Pull Request (PR).
-5. Once your PR is merged or marked <code>hacktoberfest-accepted</code>, it counts towards your Hacktoberfest progress!
 
 ---
 
 Happy hacking, and thank you for supporting open source ❤️  
 <p align="center">
-  <a href="https://github.com/Opensource-NITJ/AskNITJ/issues">🔗 View Issues</a> |
-  <a href="https://hacktoberfest.com/">🌐 Learn more</a>
+  <a href="https://github.com/Opensource-NITJ/AskNITJ/issues">🔗 View Issues</a>
 </p>
 
 <hr>
